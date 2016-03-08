@@ -1,0 +1,1 @@
+<?php echo "another template file"; ?>
